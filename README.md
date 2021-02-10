@@ -1,2 +1,2 @@
 # Hello-World
-New in this app, just figuring it out
+New to this app, just figuring it out
